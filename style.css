@@ -1,3 +1,11 @@
+body{
+    background-color: #aa06cac4;
+    color: #ffffff5b;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    line-height: 1.42857143;
+    margin: 0;
+}
 #image{
     width:4032px;
     height:3024px;
