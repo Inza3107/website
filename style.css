@@ -10,7 +10,7 @@ body{
 .image-grid {
     --gap: 16px;
     --num-cols: 3;
-    --row-height: 800px;
+    --row-height: 3024px;
 
     box-sizing: border-box;
     padding: var(--gap);
@@ -36,7 +36,7 @@ body{
 }
 
 /* Anything udner 1024px */
-@media screen and (max-width: 720px) {
+@media screen and (max-width: 4032px) {
     .image-grid {
         --num-cols: 2;
         --row-height: 200px;
